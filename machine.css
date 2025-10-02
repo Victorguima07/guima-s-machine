@@ -1,0 +1,77 @@
+  /* estilo para o corpo da página */
+        body {
+            font-family: Arial, sans-serif; /* define a fonte utilizada */
+            background-image: url(fundo-desfocado-escuro-r.jpg);/* define a cor de fundo do corpo da página */
+            margin: 0; /* remove margens externas */
+            padding: 0; /* remove preenchimento externo */
+        }
+
+        /* estilo para o contêiner principal */
+        #container {
+            border: 3px solid #FFFFFF ;
+           border-radius: 30px;
+            background-color: #EBEBEB;
+            width: 40%; /* define a largura do contêiner */
+            margin: 80px auto; /* centraliza o contêiner horizontalmente */
+            text-align: center; /* alinha o conteúdo ao centro */
+        }
+
+        /* estilo para o cabeçalho */
+        h1 {
+            font-family: 'Electrolize';
+            color: #00FF00; /* define a cor do texto do cabeçalho */
+            text-shadow: 0 0 3px #00FF00;
+        }
+        h3{
+            color: #333333;
+        }
+        /* estilo para a entrada de texto */
+        input[type="text"] {
+            padding: 8px; /* define o preenchimento interno */
+            font-size: 16px; /* define o tamanho da fonte */
+            border: 1px ;
+            border-radius: 50px; /* define o raio das bordas */
+            background-color: #FFFFFF;
+        }
+
+        /* estilo para seleção e botão */
+        select,
+        button {
+            padding: 8px; /* define o preenchimento interno */
+            font-size: 16px; /* define o tamanho da fonte */
+            border: 1px;
+            border-radius: 50px; /* define o raio das bordas */
+            cursor: pointer; /* altera o cursor ao passar por cima */
+        }
+
+        input[type="checkbox"]{
+            color: red;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        /* estilo para o botão */
+        button {
+            background-color: #FFFFFF; /* define a cor de fundo do botão */
+            color: #000000; /* define a cor do texto do botão */
+            border: none; /* remove a borda do botão */
+        }
+
+        /* estilo para o botão ao passar o mouse por cima */
+        button:hover {
+            background-color: #000080;  /* altera a cor de fundo ao passar o mouse */
+            color: #FFFFFF;
+        }
+
+        /* estilo para a saída de resultados */
+        #output {
+             margin: 80px auto; /* define a margem superior */
+             width: 40%;
+            padding: 10px; /* define o preenchimento interno */
+            border-radius: 20px; /* define o raio das bordas */
+            background-image: url(fundo-desfocado-escuro-r.jpg); /* define a cor de fundo */
+            color: #00FF00;
+            text-shadow: 0 0 3px #00FF00;
+            border: 1px solid #FFFFFF    ; /* define a borda */
+            text-align: left; /* alinha o texto à esquerda */
+            display: none; /* inicialmente oculta a saída */
+        }

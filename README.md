@@ -10,16 +10,16 @@ A Guima's Machine é uma calculadora com um tema antigo puxado para o verde neon
 
 ⚙️Funcionalidades
 
-Converte qualquer número decimal válido para octal, hexadecimal e binário
-Interface interativa
-Elementos gráficos flutuantes e animados
+Converte qualquer número decimal válido para octal, hexadecimal e binário<br>
+Interface interativa<br>
+Elementos gráficos flutuantes e animados<br>
 
 
 🧠 Tecnologias Utilizadas:
 
-HTML5
-CSS3
-JavaScript
+HTML5<br>
+CSS3<br>
+JavaScript<br>
 
 🚀 Como Usar
 Clone este repositório:
