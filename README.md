@@ -1,21 +1,22 @@
-Guima's Machine 💻
+💻 Guima's Machine 💻
 
 Descrição
 A Guima's Machine é uma calculadora com um tema antigo puxado para o verde neon que converte números decimais em:
 
- Octal
-Hexadecimal 
-Binário
+   8️⃣ Octal
+🔟🔠 Hexadecimal 
+0️⃣1️⃣ Binário
 
 
 ⚙️Funcionalidades
 
 Converte qualquer número decimal válido para octal, hexadecimal e binário
-Interface interativa  e minimalista
+Interface interativa
 Elementos gráficos flutuantes e animados
 
 
-💻 Tecnologias Utilizadas
+🧠 Tecnologias Utilizadas:
+
 HTML5
 CSS3
 JavaScript
