@@ -3,9 +3,9 @@
 Descrição
 A Guima's Machine é uma calculadora com um tema antigo puxado para o verde neon que converte números decimais em:
 
-   8️⃣ Octal
-🔟🔠 Hexadecimal 
-0️⃣1️⃣ Binário
+   8️⃣ Octal<br>
+🔟🔠 Hexadecimal<br> 
+0️⃣1️⃣ Binário<br>
 
 
 ⚙️Funcionalidades
