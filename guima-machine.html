@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conversor de Bases</title>
+    <link rel="icon" type="image/png" href="icon.png"> 
     <link rel="stylesheet" href="machine.css">
 </head>
 
@@ -25,10 +26,12 @@
         <br><br>
         <!-- opções de conversão -->
         <h3>Converter para:</h3>
+        <div id="check">
         <input type="checkbox" id="convertDecimal"><label for="convertDecimal">Decimal</label>
         <input type="checkbox" id="convertHexadecimal"><label for="convertHexadecimal">Hexadecimal</label>
         <input type="checkbox" id="convertOctal"><label for="convertOctal">Octal</label>
         <input type="checkbox" id="convertBinario"><label for="convertBinario">Binário</label>
+        </div>
         <br><br>
         <!-- botão de conversão -->
         <button onclick="converter()">Converter</button>
